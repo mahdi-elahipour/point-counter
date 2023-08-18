@@ -1,6 +1,6 @@
 const singlePoint = ['ب', 'ج', 'خ', 'ذ', 'ز', 'ض', 'ظ', 'غ', 'ن', 'ف','i','j','.'];
 const twoPoint = ['ت', 'ی', 'ق'];
-const threePoint = ['پ', 'ث', 'چ'];
+const threePoint = ['پ','ث','چ','ش'];
 const str = document.getElementById("str");
 const result = document.getElementById("result");
 const changeHandler = (e) => {
